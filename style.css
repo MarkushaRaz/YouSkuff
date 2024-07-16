@@ -1,0 +1,18 @@
+body {
+	background-color:lightskyblue;
+	font-family:Monospace;
+}
+a {
+	color:black;
+	text-decoration:none;
+}
+
+[class="1"] {
+	text-align:center;
+}
+[class="2"] {
+	margin-left:50px;
+}
+[class="3"] {
+	font-size:200px;
+}

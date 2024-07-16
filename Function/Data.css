@@ -1,0 +1,21 @@
+body {
+	color:white;
+	background-color:black;
+	font-family:monospace;
+}
+a {
+	color:yellow;
+	text-decoration:none;
+}
+H6 {
+	position:absolute;
+	bottom:0;
+}
+
+[class="1"] {
+	margin-left:45%;
+	margin-top:45%;
+}
+[class="2"] {
+	text-align:center;
+}

@@ -1,0 +1,19 @@
+body {
+    background-image:url('https://markusharaz.github.io/YouSkuff/Photo/Eye.jpg');
+    font-family:Monospace;
+}
+a {
+    color:black;
+    text-decoration:none;
+}
+H6 {
+    position:absolute;
+    bottom:0;
+}
+
+[class="1"] {
+    text-align:center;
+}
+[class="2"] {
+    margin-left:50px;
+}

@@ -1,0 +1,11 @@
+body {
+	background-color:lightgreen;
+	font-family:Monospace;
+}
+
+[class="1"] {
+	text-align:center;
+}
+[class="2"] {
+	margin-left:50px;
+}
